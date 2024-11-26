@@ -2,8 +2,9 @@
 layout: single
 permalink: /publication/index.html
 title: Publication
+classes: wide
 author_profile: true
-last_modified_at: 2024-11-26
+last_modified_at: 2024-09-07
 ---
 
 
