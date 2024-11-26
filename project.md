@@ -19,7 +19,7 @@ layout: single
 
 
 <p align="center">
-  <img src="/projects\welding_axis.png">
+  <img src="/project\welding_axis.png">
   <!-- <br> -->
   <!-- <img src="/projects\rebar.png" style="width: 600px"/> -->
 </p>
@@ -37,7 +37,7 @@ layout: single
 
 
 <p align="center">
-  <img src="/projects\shear_stud.png" style="width: 600px"/>
+  <img src="/project\shear_stud.png" style="width: 600px"/>
 </p>
 
 <br>
@@ -48,7 +48,7 @@ layout: single
 </div>
 
 <p align="center">
-  <img src="/projects\ugv.png">
+  <img src="/project\ugv.png">
 </p>
 <br>
 
@@ -59,7 +59,7 @@ layout: single
 </div>
 
 <p align="center">
-  <img src="/projects\大创.png">
+  <img src="/project\大创.png">
 </p>
 <br>
 
@@ -75,7 +75,7 @@ layout: single
 
 
 <p align="center">
-  <img src="/projects\桥梁设计大赛.png">
+  <img src="/project\桥梁设计大赛.png">
 </p>
 
 
@@ -85,5 +85,5 @@ layout: single
 </div>
 
 <p align="center">
-  <img src="/projects\第三届全国大学生结构信息大赛.png">
+  <img src="/project\第三届全国大学生结构信息大赛.png">
 </p>
