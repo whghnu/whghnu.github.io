@@ -8,9 +8,7 @@ last_modified_at: 2024-05-24
 ---
 
 
-
-
-## Scholarships
+### Scholarships
 
 - National Scholarship
 - 2020.12：The First Prize of the "Industrial and Civil Construction Scholarship for Class of 1977" Civil Engineering Excellence Award
@@ -22,13 +20,13 @@ last_modified_at: 2024-05-24
 - 2019.12：Individual Scholarship
 
 
-## Competitions (Selected)
+### Competitions (Selected)
 
 - 2021.11：The First Prize of the 3rd Bridge Design Competition in Anhui Province
 - 2021.04：The Special Prize of the 3rd National Undergraduate Structural Design Information Technology Competition<br>**The sole group to receive this honor that year.**
 
 
-## Honors
+### Honors
 
 - 2022.03：Outstanding Graduate of Anhui Province
 - 2022.03：Outstanding Graduate of HFUT
