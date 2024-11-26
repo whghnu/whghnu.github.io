@@ -114,7 +114,7 @@ analytics:
 # Site Author
 author:
   name             : "Wang Huiguang"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/web_resources/huiguang.jpg"
   bio              : "A person who pays his attention to automation in construction."
   location         : "China"
   email            :
@@ -322,4 +322,4 @@ defaults:
       read_time: true
       comments: # true
       share: true
-      related: true
+      related: #true
