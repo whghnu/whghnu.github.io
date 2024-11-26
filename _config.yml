@@ -115,13 +115,13 @@ analytics:
 author:
   name             : "Wang Huiguang"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
-  location         : "Somewhere"
+  bio              : "A person who pays his attention to automation in construction."
+  location         : "China"
   email            :
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      # url: "mailto:your.name@email.com"
+      url: "mailto:whg0917@hnu.edu.cn"
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
