@@ -1,6 +1,6 @@
 ---
 permalink: /project/index.html
-title: Project
+# title: Project
 classes: wide
 layout: single
 author_profile: true
