@@ -23,12 +23,3 @@ last_modified_at: 2024-05-20
   </div>
 </div>
 
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
