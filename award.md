@@ -8,7 +8,7 @@ last_modified_at: 2024-05-24
 ---
 
 
-> Lastest Update: 2024.5.24&nbsp;
+
 
 ## Scholarships
 
