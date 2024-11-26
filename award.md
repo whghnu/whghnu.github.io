@@ -1,7 +1,10 @@
 ---
 layout: single
 permalink: /award/index.html
-title: Project
+title: Award
+classes: wide
+author_profile: true
+last_modified_at: 2024-05-24
 ---
 
 
@@ -35,6 +38,6 @@ title: Project
 
 ---
 <div>
-    <img src="/images/award.png">
+    <img src="/web_resources/award.png">
 </div>
 <br>
