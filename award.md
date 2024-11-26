@@ -4,7 +4,7 @@ permalink: /award/index.html
 classes: wide
 author_profile: true
 last_modified_at: 2024-05-24
-Title: Scholarships
+title: Scholarships
 ---
 
 - National Scholarship
