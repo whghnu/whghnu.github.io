@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: home
 permalink: /publication/index.html
 title: Publication
 classes: wide
