@@ -8,5 +8,9 @@ main:
     url: /publication/
   - title: "Award"
     url: /award/
-  # - title: "Sitemap"
-  #   url: /sitemap/
+  - title: "Presentation"
+    url: /presentation/
+  - title: "Demo"
+    url: /demo/
+  - title: "Contact"
+    url: /contact/
