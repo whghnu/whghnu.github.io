@@ -1,7 +1,6 @@
 ---
 layout: single
 permalink: /award/index.html
-# title: Award
 classes: wide
 author_profile: true
 last_modified_at: 2024-05-24

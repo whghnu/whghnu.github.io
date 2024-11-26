@@ -1,7 +1,6 @@
 ---
 layout: single
 permalink: /contact/index.html
-# title: Contact
 classes: wide
 author_profile: true
 ---
