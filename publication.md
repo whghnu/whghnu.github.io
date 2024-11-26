@@ -3,11 +3,9 @@ layout: single
 permalink: /publication/index.html
 title: Publication
 author_profile: true
+last_modified_at: 2024-11-26
 ---
 
-<!-- > Lastest Update: 2024.9.7&nbsp; -->
-
-<!-- ## Papers and Patents -->
 
 <div style="display: flex; align-items: center; margin-top: 20px; margin-bottom: 20px;">
   <img src="/publication\picture\第二篇文章.png" style="flex-shrink: 0; width: 200px; margin-right: 20px;"/>
