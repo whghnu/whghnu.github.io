@@ -2,7 +2,6 @@
 layout: single
 permalink: /publication/index.html
 title: Publication
-classes: wide
 author_profile: true
 ---
 
