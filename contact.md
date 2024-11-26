@@ -1,14 +1,16 @@
 ---
 layout: single
 permalink: /contact/index.html
-title: Contact
+# title: Contact
 classes: wide
 author_profile: true
 ---
 
 
 
-
+<div style="text-align: center; font-size: 24px;">
+  <p><strong>CONTACT</strong> </p>
+</div>
 
 <div style="text-align: justify;">
   <p><strong>If you are interested in any aspect of me, I would love to chat and collaborate, please contact me!</strong><br>
