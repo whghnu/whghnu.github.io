@@ -3,6 +3,7 @@ layout: home
 permalink: /publication/index.html
 title: Publication
 classes: wide
+author_profile: true
 ---
 
 > Lastest Update: 2024.9.7&nbsp;

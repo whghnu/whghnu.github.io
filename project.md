@@ -3,6 +3,7 @@ permalink: /project/index.html
 title: Project
 classes: wide
 layout: single
+author_profile: true
 ---
 
 
