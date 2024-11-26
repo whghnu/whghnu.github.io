@@ -117,7 +117,7 @@ author:
   avatar           : "/web_resources/huiguang.jpg"
   bio              : "A person who pays his attention to automation in construction."
   location         : "China"
-  email            :
+  email            : "whg0917@hnu.edu.cn"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
